@@ -37,6 +37,7 @@ dependencies = [
     "modelscope>=1.22.0",
     "datasets>=3,<4",
     "huggingface-hub",
+    "certifi>=2026.10.19",
     "pydantic",
     "tqdm",
     "simplejson",
